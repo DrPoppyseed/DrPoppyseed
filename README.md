@@ -1,6 +1,6 @@
-- 📫 How to reach me ... you can reach me at peaske16180@gmail.com
+# Hi, I'm Jay 👋
 
-<!---
-DrPoppyseed/DrPoppyseed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/jay-shimada-82b22b167/)
+[![https://img.shields.io/badge/-Gmail-lightgrey?logo=gmail&logoColor=white&style=flat-square](https://img.shields.io/badge/-Gmail-brown?logo=gmail&logoColor=white&style=flat-square)](peaske16180@gmail.com)
+
+I'm a Full Stack developer based in Tokyo. I write Typescript, React, and Rust on my job, and dabble in other things from time to time. 
